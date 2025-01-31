@@ -135,6 +135,13 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+agent_ai/
+
+
+
+#folder
+US_PublicLaws/
+vector_store/
 
 # Spyder project settings
 .spyderproject
